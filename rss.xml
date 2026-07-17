@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Material World</title>
+    <link>https://neochenyang.github.io/</link>
+    <description>A full-stack developer’s digital sanctuary. Where code acts as the bricks of reality, and prose serves as the sensor of existence. Finding physical anchors within a binary universe.</description>
+    <language>en-us</language>
+    <item>
+      <title>An In-Depth Report on Female Homosocial Dynamics, Symbiotic Mechanisms, and Male Mating Barriers</title>
+      <link>https://neochenyang.github.io/blog/An In-Depth Report on Female Homosocial Dynamics, Symbiotic Mechanisms, and Male Mating Barriers</link>
+      <guid isPermaLink="true">https://neochenyang.github.io/blog/An In-Depth Report on Female Homosocial Dynamics, Symbiotic Mechanisms, and Male Mating Barriers</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>NeoChenyang</dc:creator>
+      <description></description>
+    </item>
+    <item>
+      <title>An In-Depth Analysis Report Based on Psychology and Social Exchange Theory</title>
+      <link>https://neochenyang.github.io/blog/An In-Depth Analysis Report Based on Psychology and Social Exchange Theory</link>
+      <guid isPermaLink="true">https://neochenyang.github.io/blog/An In-Depth Analysis Report Based on Psychology and Social Exchange Theory</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>NeoChenyang</dc:creator>
+      <description></description>
+    </item>
+  </channel>
+</rss>
